@@ -1,0 +1,782 @@
+%% NOTE: \LaTeX's comment character `%' is not a comment character in
+%% the database files.  \BibTeX allows in the database files any
+%% comment that's not within an entry.
+%%
+%% Repositorio de arquivos .bib disponiveis on-line:
+%% http://liinwww.ira.uka.de/bibliography/index.html
+%% http://www.math.utah.edu/~beebe/bibliographies.html
+%%
+%% Se voc� tiver problemas com acentos nas entradas do BibTeX, coloque-os
+%% entre { e }, como em Jo{�}o ou ainda Jo{\~a}o.
+
+@INPROCEEDINGS{Moore99,
+  AUTHOR =       "R. Moore and J. Lopes",
+  TITLE =        "Paper templates",
+  BOOKTITLE =    "TEMPLATE'06, 1st International Conference on Template Production",
+  YEAR =         "1999",
+  publisher =    "SCITEPRESS",
+  file = F
+}
+
+@BOOK{Smith98,
+  AUTHOR =       "J. Smith",
+  TITLE =        "The Book",
+  PUBLISHER =    "The publishing company",
+  YEAR =         "1998",
+  address =      "London",
+  edition =      "2nd",
+  file = F
+}
+
+%---------------------------------------------------------
+% A A A
+%---------------------------------------------------------
+@article{adams2010out,
+  title={Out there and in here: design for blended scientific inquiry learning},
+  author={Adams, Anne and Davies, Sarah and Collins, Trevor and Rogers, Yvonne},
+  year={2010}
+}
+
+@misc{ARToolKi30,
+author = {ARToolKit},
+title = {ARToolKit Documentation [ARToolkit]},
+howpublished = {\url{http://artoolkit.org/documentation/}},
+month = {11},
+year = {2016},
+note = {(Accessed on 11/23/2016)}
+}
+
+@misc{artigo3282,
+author = {Ezequiel, Teresinha,  Rômulo},
+title = {Realidade aumentada Aplicada a educação},
+howpublished = {\url{http://www.eati.info/eati/2013/assets/anais/artigo322.pdf}},
+month = {November},
+year = {2013},
+note = {(Accessed on 10/02/2016)}
+}
+
+@misc{Apres3,
+author = {MEC},
+title = {Apresentação do PowerPoint},
+howpublished = {\url{http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=36521-apresentacao-censo-escolar-divulgacao-22032016-pdf&Itemid=30192}},
+month = {},
+year = {},
+note = {(Accessed on 08/28/2016)}
+}
+
+@MANUAL{abnt-classe-doc,
+ author       = {Santini Frasson, Miguel Vin\'{\i}cius},
+ organization = {Grupo abnTeX},
+ title        = {Classe {ABNT}},
+ subtitle     = {confec\c{c}\~ao de trabalhos acad\^emicos em {\LaTeX} segundo as normas {ABNT}},
+ year         = {2002},
+ url          = {http://abntex.codigolivre.org.br}
+}
+
+@article{azuma2001recent,
+  title={Recent advances in augmented reality},
+  author={Azuma, Ronald and Baillot, Yohan and Behringer, Reinhold and Feiner, Steven and Julier, Simon and MacIntyre, Blair},
+  journal={Computer Graphics and Applications, IEEE},
+  volume={21},
+  number={6},
+  pages={34--47},
+  year={2001},
+  publisher={IEEE}
+}
+
+@misc{Andro1,
+author = {},
+title = {Android 4.2 Compatibility Definition},
+howpublished = {\url{http://static.googleusercontent.com/media/source.android.com/pt-BR//compatibility/4.2/android-4.2-cdd.pdf}},
+month = {June},
+year = {2013},
+note = {(Accessed on 05/25/2016)}
+}
+
+@article{akagui12004desenvolvimento,
+  title={Desenvolvimento de aplica{\c{c}}{\~o}es de Realidade Aumentada com ARToolKit},
+  author={Akagui, Daniela and Kirner, Claudio},
+  year={2004}
+}
+%---------------------------------------------------------
+% B B B
+%---------------------------------------------------------
+@misc{Brasi57,
+author = {BBC},
+title = {Brasil fica em penúltimo lugar em ranking global de qualidade de educação - BBC Brasil},
+howpublished = {\url{http://www.bbc.com/portuguese/noticias/2012/11/121127_educacao_ranking_eiu_jp}},
+month = {Novembro},
+year = {2012},
+note = {(Accessed on 06/05/2016)}
+}
+
+@article{billinghurst2002augmented,
+  title={Augmented reality in education},
+  author={Billinghurst, Mark},
+  journal={New Horizons for Learning},
+  volume={12},
+  year={2002}
+}
+%---------------------------------------------------------
+% C C C
+%---------------------------------------------------------
+@misc{Cogni10,
+author = {Peter Gray},
+title = {Cognitive Benefits of Playing Video Games},
+howpublished = {Psychology Today, \url{https://www.psychologytoday.com/blog/freedom-learn/201502/cognitive-benefits-playing-video-games}},
+month = {Febuary},
+year = {2015},
+note = {(Accessed on 04/21/2016)}
+}
+
+@article{cardoso2014uso,
+  title={Uso da realidade aumentada em aux{\'\i}lio {\`a} Educa{\c{c}}{\~a}o},
+  author={Cardoso, Raul GS and Pereira, Said T and Cruz, Jorge H and Almeida, Will RM},
+  journal={Anais do Computer on the Beach},
+  pages={330--339},
+  year={2014}
+}
+
+@book{correa1999era,
+  title={Era uma vez... um vilao chamado matem{\'a}tica: um estudo intercultural da dificuldade atribu{\'\i}da ̉matem{\'a}tica},
+  author={Correa, Jane and McLean, Morag},
+  year={1999},
+  publisher={Universidad Federal do Rio Grande do Sul}
+}
+
+@misc{Censo17,
+author = {INEP},
+title = {Censo Escolar - Inep},
+howpublished = {\url{http://portal.inep.gov.br/basica-censo}},
+month = {},
+year = {},
+note = {(Accessed on 08/28/2016)}
+}
+
+@misc{Ciênc33,
+author = {MEC},
+title = {Ciências Naturais},
+howpublished = {\url{http://portal.mec.gov.br/seb/arquivos/pdf/livro04.pdf}},
+month = {},
+year = {},
+note = {(Accessed on 08/30/2016)}
+}
+
+@article{chickering1987seven,
+  title={Seven principles for good practice in undergraduate education.},
+  author={Chickering, Arthur W and Gamson, Zelda F},
+  journal={AAHE bulletin},
+  volume={3},
+  pages={7},
+  year={1987},
+  publisher={ERIC}
+}
+
+@article{chiang2014augmented,
+  title={An Augmented Reality-based Mobile Learning System to Improve Students' Learning Achievements and Motivations in Natural Science Inquiry Activities.},
+  author={Chiang, Tosti HC and Yang, Stephen JH and Hwang, Gwo-Jen},
+  journal={Educational Technology \& Society},
+  volume={17},
+  number={4},
+  pages={352--365},
+  year={2014},
+  publisher={JSTOR}
+}
+
+@article{cover2004digital,
+  title={Digital addiction: The cultural production of online and video game junkies},
+  author={Cover, Rob},
+  journal={Media International Australia incorporating Culture and Policy},
+  volume={113},
+  number={1},
+  pages={110--123},
+  year={2004},
+  publisher={SAGE Publications}
+}
+
+@misc{ColorBli56,
+author = {Daniel},
+title = {Color-Blind-Essentials.pdf},
+howpublished = {\url{http://www.color-blindness.com/wp-content/documents/Color-Blind-Essentials.pdf}},
+month = {},
+year = {2016},
+note = {(Accessed on 12/05/2016)}
+}
+%---------------------------------------------------------
+% D D D
+%---------------------------------------------------------
+@book{druin1999design,
+  title={The design of children''s technology},
+  author={Druin, Allison and others},
+  year={1999},
+  publisher={Morgan Kaufmann Publishers San Francisco}
+}
+
+@techreport{dahlstrom2013ecar,
+  title={ECAR study of undergraduate students and information technology},
+  author={Dahlstrom, Eden and Walker, JD and Dziuban, Charles},
+  year={2013},
+  institution={2013}
+}
+
+@article{de2006dificuldades,
+  title={Dificuldades de aprendizagem em Matem{\'a}tica e a percep{\c{c}}{\~a}o dos professores em rela{\c{c}}{\~a}o a fatores associados ao insucesso nesta {\'a}rea},
+  author={de Almeida, C{\'\i}nthia Soares},
+  journal={Trabalho de Conclus{\~a}o de Curso) Universidade Cat{\'o}lica de Bras{\'\i}lia, UCB, Bras{\'\i}lia--DF},
+  year={2006}
+}
+
+@article{derealidade,
+  title={Realidade aumentada no ensino de ci{\^e}ncias: tecnologia auxiliando a visualiza{\c{c}}{\~a}o da informa{\c{c}}{\~a}o},
+  author={de Souza Rolim, Ana Luiza and Rodrigues, Rodrigo Lins and Oliveira, Wilton and Farias, Danilo Soares}
+}
+
+@incollection{dunleavy2014augmented,
+  title={Augmented reality teaching and learning},
+  author={Dunleavy, Matt and Dede, Chris},
+  booktitle={Handbook of research on educational communications and technology},
+  pages={735--745},
+  year={2014},
+  publisher={Springer}
+}
+%---------------------------------------------------------
+% E E E
+%---------------------------------------------------------
+@misc{CriIpadvsTV,
+author = {André Darugna},
+title = {Estudo revela: as crianças preferem o iPad em vez de televisão - iPadDicas - Dicas, Tutorais, Jogos e Aplicativos do iPad},
+howpublished = {\url{http://ipaddicas.com/noticias/criancas-preferem-ipad-em-vez-de-televisao/}},
+month = {},
+year = {2015},
+note = {(Accessed on 03/30/2016)}
+}
+%---------------------------------------------------------
+% F F F
+%---------------------------------------------------------
+@book{fraenkel1993design,
+  title={How to design and evaluate research in education},
+  author={Fraenkel, Jack R and Wallen, Norman E and Hyun, Helen H},
+  volume={7},
+  year={1993},
+  publisher={McGraw-Hill New York}
+}
+
+@article{ferguson2010blazing,
+  title={Blazing angels or resident evil? Can violent video games be a force for good?},
+  author={Ferguson, Christopher J},
+  journal={Review of General Psychology},
+  volume={14},
+  number={2},
+  pages={68},
+  year={2010},
+  publisher={Educational Publishing Foundation}
+}
+
+@misc{FAQGoogl98,
+author = {},
+title = {FAQ - Google Glass Help},
+howpublished = {\url{https://support.google.com/glass/answer/3064131?hl=en}},
+month = {},
+year = {2016},
+note = {(Accessed on 10/08/2016)}
+}
+
+@article{fitzgerald2013augmented,
+  title={Augmented reality and mobile learning: the state of the art},
+  author={FitzGerald, Elizabeth and Ferguson, Rebecca and Adams, Anne and Gaved, Mark and Mor, Yishay and Thomas, Rhodri},
+  journal={International Journal of Mobile and Blended Learning},
+  volume={5},
+  number={4},
+  pages={43--58},
+  year={2013}
+}
+%---------------------------------------------------------
+% G G G
+%---------------------------------------------------------
+@article{goncalves2013,
+  title={Desenvolvimento de aplica\c{c}\~oes utilizando realidade aumentada },
+  author={Gon\c{c}alves, Klausner},
+  journal={Revista das Faculdades Integradas Claret\'ianas},
+  number={6},
+  pages={95--96},
+  year={2013} 
+}
+
+@article{granzoto2003avaliaccao,
+  title={Avalia{\c{c}}{\~a}o da acuidade visual em escolares da 1a s{\'e}rie do ensino fundamental},
+  author={Granzoto, Jos{\'e} Aparecido and Ostermann, CSPE and Brum, LF and Pereira, PG and Granzoto, T},
+  journal={Arq Bras Oftalmol},
+  volume={66},
+  number={2},
+  pages={167--171},
+  year={2003},
+  publisher={SciELO Brasil}
+}
+
+@article{galloway2004intimations,
+  title={Intimations of everyday life: Ubiquitous computing and the city},
+  author={Galloway, Anne},
+  journal={Cultural studies},
+  volume={18},
+  number={2-3},
+  pages={384--408},
+  year={2004},
+  publisher={Taylor \& Francis}
+}
+%---------------------------------------------------------
+% H H H
+%---------------------------------------------------------
+@article{hannafin1993technology,
+  title={Technology in the classroom: The teacher's new role and resistance to it.},
+  author={Hannafin, Robert D and Savenye, Wilhelmina C},
+  journal={Educational Technology},
+  volume={33},
+  number={6},
+  pages={26--31},
+  year={1993},
+  publisher={ERIC}
+}
+
+@article{hogle1996considering,
+  title={Considering Games as Cognitive Tools: In Search of Effective" Edutainment.".},
+  author={Hogle, Jan G},
+  year={1996},
+  publisher={ERIC}
+}
+
+@article{huang2008using,
+  title={Using Annotation Services in a Ubiquitous Jigsaw Cooperative Learning Environment.},
+  author={Huang, Yueh-Min and Huang, Tien-Chi and Hsieh, Meng-Yen and others},
+  journal={Educational Technology \& Society},
+  volume={11},
+  number={2},
+  pages={3--15},
+  year={2008},
+  publisher={JSTOR}
+}
+%---------------------------------------------------------
+% I I I
+%---------------------------------------------------------
+@book{international2015world,
+  title={The World in 2015: ICT Facts and Figures},
+  author={International Telecommunication Union},
+  year={2015},
+  publisher={ITU}
+}
+
+@misc{InsideOu42,
+author = {Lamantia},
+title = {Inside Out: Interaction Design for Augmented Reality :: UXmatters},
+howpublished = {\url{http://www.uxmatters.com/mt/archives/2009/08/inside-out-interaction-design-for-augmented-reality.php}},
+month = {august},
+year = {2009},
+note = {(Accessed on 11/25/2016)}
+}
+%---------------------------------------------------------
+% J J J
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+% K K K
+%---------------------------------------------------------
+@inproceedings{kirner2007realidade,
+  title={Realidade virtual e aumentada: conceitos, projeto e aplica{\c{c}}{\~o}es},
+  author={Kirner, Claudio and Siscoutto, Robson},
+  booktitle={Livro do IX Symposium on Virtual and Augmented Reality, Petr{\'o}polis (RJ), Porto Alegre: SBC},
+  year={2007}
+}
+
+@article{kirner2011prototipagem,
+  title={Prototipagem R{\'a}pida de Aplica{\c{c}}{\~o}es Interativas de Realidade Aumentada},
+  author={Kirner, Claudio},
+  journal={Tend{\^e}ncias e T{\'e}cnicas em Realidade Virtual e Aumentada. Porto Alegre, Brasil},
+  volume={1},
+  number={1},
+  pages={29--54},
+  year={2011}
+}
+
+@article{kaufmann2003collaborative,
+  title={Collaborative augmented reality in education},
+  author={Kaufmann, Hannes},
+  journal={Institute of Software Technology and Interactive Systems, Vienna University of Technology},
+  year={2003}
+}
+
+@article{kirkorian2008media,
+  title={Media and young children's learning},
+  author={Kirkorian, Heather L and Wartella, Ellen A and Anderson, Daniel R},
+  journal={The Future of Children},
+  volume={18},
+  number={1},
+  pages={39--61},
+  year={2008},
+  publisher={Princeton University}
+}
+
+@inproceedings{kirner2006case,
+  title={Case studies on the development of games using augmented reality},
+  author={Kirner, Claudio and Zorzal, Ezequiel R and Kirner, Tereza G},
+  booktitle={Systems, Man and Cybernetics, 2006. SMC'06. IEEE International Conference on},
+  volume={2},
+  pages={1636--1641},
+  year={2006},
+  organization={IEEE}
+}
+
+@article{kilic2008effects,
+  title={The effects of the jigsaw technique on learning the concepts of the principles and methods of teaching},
+  author={Kilic, Durmus},
+  journal={World applied sciences journal},
+  volume={4},
+  number={1},
+  pages={109--114},
+  year={2008}
+}
+
+@inproceedings{kirner2005aplicaccoes,
+  title={Aplica{\c{c}}{\~o}es educacionais em ambientes colaborativos com realidade aumentada},
+  author={Kirner, Claudio and Zorzal, Ezequiel Roberto},
+  booktitle={Anais do Simp{\'o}sio Brasileiro de Inform{\'a}tica na Educa{\c{c}}{\~a}o},
+  volume={1},
+  number={1},
+  pages={114--124},
+  year={2005}
+}
+%---------------------------------------------------------
+% L L L
+%---------------------------------------------------------
+@article{laranjeira1997parametros,
+  title={Par{\^a}metros Curriculares Nacionais: Matem{\'a}tica},
+  author={LARANJEIRA, Maria In{\^e}s},
+  journal={Bras{\'\i}lia: MEC/SEF},
+  pages={37},
+  year={1997}
+}
+%---------------------------------------------------------
+% M M M
+%---------------------------------------------------------
+@article{murnane2007problem,
+  title={What is the problem? The challenge of providing effective teachers for all children},
+  author={Murnane, Richard J and Steele, Jennifer L},
+  journal={The future of Children},
+  volume={17},
+  number={1},
+  pages={15--43},
+  year={2007},
+  publisher={Brookings Institution Press}
+}
+
+@misc{Memor22,
+author = {Wikipedia},
+title = {Memory - Wikipedia, the free encyclopedia},
+howpublished = {\url{https://en.wikipedia.org/wiki/Memory#Types}},
+month = {},
+year = {},
+note = {(Accessed on 04/22/2016)}
+}
+
+@article{martins2002crescimento,
+  title={Crescimento e trabalho de estudantes de ensino fundamental e m{\'e}dio em S{\~a}o Paulo, Brasil},
+  author={Martins, Ignez Salas and Fischer, Frida Marina and de Oliveira, Denize Cristina and Teixeira, Liliane Reis and da Costa, Lu{\'\i}s Augusto Ribeiro and Marinho, Sheila Pita and Perestrelo, Jos{\'e} Paulo Pires and others},
+  journal={Revista de Sa{\'u}de P{\'u}blica},
+  volume={36},
+  number={1},
+  pages={19--25},
+  year={2002}
+}
+
+@book{mcginnis1997skillstreaming,
+  title={Skillstreaming the elementary school child: New strategies and perspectives for teaching prosocial skills},
+  author={McGinnis, Ellen and Goldstein, Arnold P},
+  year={1997},
+  publisher={Research Press}
+}
+
+@book{moran2007educaccao,
+  title={A educa{\c{c}}{\~a}o que desejamos: novos desafios e como chegar l{\'a}},
+  author={Moran, Jos{\'e} Manuel},
+  year={2007},
+  publisher={Papirus Editora}
+}
+
+@article{milhomemabordagem,
+  title={UMA ABORDAGEM DE ENSINO-APRENDIZAGEM BASEADA NA PROATIVIDADE DOS ALUNOS DE ENSINO M{\'E}DIO EM TUCURU{\'I}},
+  author={Milhomem, Patr{\'\i}cia Mota and de Souza Lima, Diorge and da Silva Fonseca, Wellington}
+}
+%---------------------------------------------------------
+% N N N
+%---------------------------------------------------------
+@article{nakamoto2012estrategia,
+  title={ESTRAT{\'E}GIA DE ENGENHARIA DE REQUISITOS PARA AMBIENTES DE REALIDADE AUMENTADA/REQUIREMENTS ANALYSIS STRATEGY FOR THE DEVELOPMENT OF AUGMENTED REALITY ENVIRONMENTS},
+  author={Nakamoto, Paula Teixeira and Carrijo, Gilberto Arantes and Cardoso, Alexandre and de Oliveira Lima, L{\'a}zaro Vin{\'\i}cius and Lopes, Colaborator Ederaldo Jos{\'e}},
+  journal={Journal of Information Systems and Technology Management: JISTEM},
+  volume={9},
+  number={3},
+  pages={607},
+  year={2012},
+  publisher={TECSI Information Systems and Technology Management, University of Sao Paulo}
+}
+%---------------------------------------------------------
+% O O O
+%---------------------------------------------------------
+@misc{Oprof94,
+author = {João Luís de Almeida Machado},
+title = {O professor brasileiro do ensino fundamental p\'ublico e seu perfil - Jo\~ao Lu\'is de Almeida Machado | Planeta Educação},
+howpublished = {\url{http://www.planetaeducacao.com.br/portal/artigo.asp?artigo=2568}},
+month = {},
+year = {2015},
+note = {(Accessed on 08/28/2016)}
+}
+%---------------------------------------------------------
+% P P P
+%---------------------------------------------------------
+@misc{Portu16,
+author = {Minist\'erio da educa\c{c}\~ao,
+title = {L\'ingua Portuguesa, parametros curriculares do terceiro e quarto ciclo do ensino fundamental},
+howpublished = {\url{http://portal.mec.gov.br/seb/arquivos/pdf/portugues.pdf}},
+month = {},
+year = {1998},
+note = {(Accessed on 05/29/2016)}
+}
+%---------------------------------------------------------
+% Q Q Q
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+% R R R
+%---------------------------------------------------------
+@inproceedings{rekimoto1995world,
+  title={The world through the computer: Computer augmented interaction with real world environments},
+  author={Rekimoto, Jun and Nagao, Katashi},
+  booktitle={Proceedings of the 8th annual ACM symposium on User interface and software technology},
+  pages={29--36},
+  year={1995},
+  organization={ACM}
+}
+
+@misc{REALIDAD87,
+author = {Claudio Kirner},
+title = {REALIDADE VIRTUAL E AUMENTADA},
+howpublished = {\url{http://www.realidadevirtual.com.br/}},
+month = {},
+year = {2016},
+note = {(Accessed on 12/02/2016)}
+}
+%---------------------------------------------------------
+% S S S
+%---------------------------------------------------------
+@ARTICLE{SVR2009,
+  key          = {SVR2009},
+  author       = {SBC {\href{http://www.ckirner.com/download/livros/SVR2009_PreSimposio.pdf}{Kirner}}},
+  year         = 2009,
+  title        = {Aplica\c{c}\~oes de Realidade Virtual e Aumentada},
+  journal      = {Livro do Pr\'e-Simp\'osio},
+  volume       = XI,
+  pages        = {8--9}
+}
+
+@article{sheldon2010not,
+  title={Not just numbers: Creating a partnership climate to improve math proficiency in schools},
+  author={Sheldon, Steven B and Epstein, Joyce L and Galindo, Claudia L},
+  journal={Leadership and policy in schools},
+  volume={9},
+  number={1},
+  pages={27--48},
+  year={2010},
+  publisher={Taylor \& Francis}
+}
+
+@inproceedings{svanaes2000search,
+  title={In search of metaphors for tangible user intefaces},
+  author={Svanaes, Dag and Verplank, William},
+  booktitle={Proceedings of DARE 2000 on Designing augmented reality environments},
+  pages={121--129},
+  year={2000},
+  organization={ACM}
+}
+
+@inproceedings{silva2014ar,
+  title={Ar jigsaw puzzle: Potencialidades de uso da realidade aumentada no ensino de geografia},
+  author={Silva, Manoela and Vilar, Edvar and Reis, Guilherme and Lima, Jo{\~a}o Paulo and Teichrieb, Veronica},
+  booktitle={Anais do Simp{\'o}sio Brasileiro de Inform{\'a}tica na Educa{\c{c}}{\~a}o},
+  volume={25},
+  number={1},
+  pages={194},
+  year={2014}
+}
+
+@article{shelton2002augmented,
+  title={Augmented Reality and Education},
+  author={Shelton, B},
+  journal={New Horizons for learning},
+  volume={9},
+  number={1},
+  year={2002}
+}
+%---------------------------------------------------------
+% T T T
+%---------------------------------------------------------
+@ARTICLE{TEDU2014,
+  key          = {TEDU2014},
+  author       = {TJ {\href{https://thejournal.com/articles/2014/02/03/10-major-technology-trends-in-education.aspx}{Riedel}}},
+  year         = 2014,
+  title        = {10 Major Technology Trends in Education},
+  journal      = {The Journal},
+}
+
+@misc{TwoBilln,
+author = {emarketer},
+title = {2 Billion Consumers Worldwide to Get Smart(phones) by 2016 - eMarketer},
+howpublished = {\url{http://www.emarketer.com/Article/2-Billion-Consumers-Worldwide-Smartphones-by-2016/1011694}},
+month = {December},
+year = {2014},
+note = {(Accessed on 03/30/2016)}
+}
+
+@misc{TheMa12,
+author = {Peter Gray},
+title = {The Many Benefits, for Kids, of Playing Video Games},
+howpublished = {\url{https://www.psychologytoday.com/blog/freedom-learn/201201/the-many-benefits-kids-playing-video-games}},
+month = {January},
+year = {2012},
+note = {(Accessed on 05/24/2016)}
+}
+
+@misc{TheJi25,
+author = {},
+title = {The Jigsaw Classroom},
+howpublished = {\url{https://www.jigsaw.org/}},
+month = {},
+year = {2016},
+note = {(Accessed on 08/26/2016)}
+}
+
+@article{takata2015ferramenta,
+  title={Ferramenta de acessibilidade adapt{\'a}vel aos dalt{\^o}nicos e {\`a}s redes m{\'o}veis},
+  author={Takata, Alex},
+  year={2015}
+}
+
+@article{tadlock1978sq3r,
+  title={SQ3R: Why it works, based on an information processing theory of learning},
+  author={Tadlock, Dolores Fadness},
+  journal={Journal of Reading},
+  volume={22},
+  number={2},
+  pages={110--112},
+  year={1978},
+  publisher={JSTOR}
+}
+%---------------------------------------------------------
+% U U U
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+% V V V
+%---------------------------------------------------------
+@misc{Video49,
+author = {Peter Gray},
+title = {Video Game Addiction: Does It Occur? If So, Why?},
+howpublished = {\url{https://www.psychologytoday.com/blog/freedom-learn/201202/video-game-addiction-does-it-occur-if-so-why}},
+month = {Febuary},
+year = {2012},
+note = {(Accessed on 05/07/2016)}
+}
+
+@article{vargas2009desenvolvimento,
+  title={O desenvolvimento da resili\^encia pelas adversidades da escola},
+  author={Vargas, Cl\'audio Pellini},
+  journal={Revista Espa\c{c}o Acad\^emico},
+  volume={9},
+  number={101},
+  pages={109--115},
+  year={2009}
+}
+%---------------------------------------------------------
+% W W W
+%---------------------------------------------------------
+@article{weiser1993some,
+  title={Some computer science issues in ubiquitous computing},
+  author={Weiser, Mark},
+  journal={Communications of the ACM},
+  volume={36},
+  number={7},
+  pages={75--84},
+  year={1993},
+  publisher={ACM}
+}
+
+@article{wu2013current,
+  title={Current status, opportunities and challenges of augmented reality in education},
+  author={Wu, Hsin-Kai and Lee, Silvia Wen-Yu and Chang, Hsin-Yi and Liang, Jyh-Chong},
+  journal={Computers and Education},
+  volume={62},
+  pages={41--49},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@book{watson2013integrating,
+  title={Integrating information technology into education},
+  author={Watson, Donald and Tinsley, David},
+  year={2013},
+  publisher={Springer}
+}
+ 
+@article{want2009cell,
+  title={When cell phones become computers},
+  author={Want, Roy},
+  journal={IEEE Pervasive Computing},
+  volume={8},
+  number={2},
+  pages={2--5},
+  year={2009},
+  publisher={IEEE}
+}
+%---------------------------------------------------------
+% X X X
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+% Y Y Y
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+% Z Z Z
+%---------------------------------------------------------
+@inproceedings{zorzal2006realidade,
+  title={Realidade aumentada aplicada em jogos educacionais},
+  author={Zorzal, Ezequiel Roberto and Cardoso, Alexandre and Kirner, Claudio and J{\'u}nior, Edgard Lamounier},
+  booktitle={V Workshop de Educa{\c{c}}{\~a}o em Computa{\c{c}}{\~a}o e Inform{\'a}tica do Estado de Minas Gerais-WEIMIG},
+  year={2006}
+}
+
+@inproceedings{zorzal2006usando,
+  title={Usando Realidade Aumentada no Desenvolvimento de Quebra-cabe{\c{c}}as Educacionais},
+  author={Zorzal, Ezequiel R and BUCCIOLI, Arthur Augusto Bastos and Kirner, Claudio},
+  booktitle={SVR2006-VIII Symposium on Virtual Reality},
+  pages={221--232},
+  year={2006}
+}
+%---------------------------------------------------------
+% 0 0 0
+%---------------------------------------------------------
+@misc{7TIPO38,
+author = {Psicoque?},
+title = {7 TIPOS DE MEM\'ORIA DO SER HUMANO },
+howpublished = {\url{http://psicologia-ro.blogspot.com.br/2012/09/7-tipos-de-memoria-do-ser-humano.html}},
+month = {},
+year = {},
+note = {(Accessed on 04/22/2016)}
+}
+
+@misc{2Billion75,
+author = {eMarketer},
+title = {2 Billion Consumers Worldwide to Get Smart(phones) by 2016 - eMarketer},
+howpublished = {\url{https://www.emarketer.com/Article/2-Billion-Consumers-Worldwide-Smartphones-by-2016/1011694}},
+month = {},
+year = {2014},
+note = {(Accessed on 12/10/2016)}
+}
+
